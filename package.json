@@ -1,6 +1,6 @@
 {
   "name": "level-cluster-consistency",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Given a key, figure out if a cluster of level-instances are consistent",
   "main": "cluster-consistency.js",
   "dependencies": {
